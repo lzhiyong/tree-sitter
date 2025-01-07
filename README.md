@@ -1,1 +1,1 @@
-# tree-sitter-grammer
+# tree-sitter
